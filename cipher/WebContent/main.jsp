@@ -24,7 +24,6 @@
 </script>
 </head>
 <body>
-<!-- 선생님 구현은 제대로 하지 못했습니다만... 이거 하나만 알아주십쇼...저 정말 열심히 했습니다...하지만 머리가 안돌아갑니다....-->
 <center>
 <div class="col-xs-6">
 	<form  name="frm01" action="mainProc2.jsp" method="post">

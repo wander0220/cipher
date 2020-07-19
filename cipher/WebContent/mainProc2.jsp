@@ -170,6 +170,11 @@ ArrayList<char[]> result = mapping(newValue,board);
 <%}%>
 </h2>
 
+<h2 class="text-right col-xs-6">복호화 된 문장</h2>
+<h2 class="btn btn-warning btn-lg col-xs-6" disabled="disabled">
+<%= sentence %>
+</h2>
+
 
 </div>
 </center>
